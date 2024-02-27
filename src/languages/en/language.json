@@ -1,0 +1,77 @@
+{
+  "appLanguage": {
+    "bosnian": "Bosnian",
+    "english": "English"
+  },
+  "homeScreen": {
+    "ajetElBekare": "Never say that those martyred in the cause of Allah are dead—in fact, they are alive! But you do not perceive it.",
+    "memorialCentarSrebrenica": "City Cemetery Visoko",
+    "mission": "- Our mission is to keep the truth about genocide.",
+    "continue": "Continue",
+    "welcome": "Welcome to the City Cemetery Visoko application",
+    "introduction": "With a minimum amount of information, find the burial places of your loved ones. If you do not know any of the requested information, contact the administration of the Visoko City Cemetery.",
+    "web": "Web",
+    "smrtovnice": "Death certificates",
+    "moreInformation": "For more information visit our website!"
+  },
+  "searchScreen": {
+    "enterSearchParams": "Enter search data",
+    "enteringMoreParams": "By filling in more fields, you have a better chance of finding the exact burial place of the person you are looking for. If you do not know any of the requested information, contact the administration of the Visoko City Cemetery.",
+    "nameOptional": "Name - optional",
+    "surnameOptional": "Surname - optional",
+    "fathersNameOptional": "Father's name - optional",
+    "seeAll": "See all",
+    "search": "Search",
+    "tabBar": {
+      "search": "Search",
+      "map": "Map"
+    }
+  },
+  "searchResultsScreen": {
+    "allResults": "All results",
+    "possibleMatches1": "possible match",
+    "possibleMatches2": "possible matches",
+    "possibleMatches": "possible matches",
+    "resultsFor": "Results for",
+    "open": "Open",
+    "close": "Close",
+    "unknownLocation": "Location is currently unknown"
+  },
+  "mapScreen": {
+    "placeOfBirth": "Place of birth",
+    "dateOfBurial": "Date of burial",
+    "plot": "Plot",
+    "row": "Row",
+    "graveSite": "Grave site",
+    "reCenter": "Re-center",
+    "yearOfBirth": "Year of birth:",
+    "gallery": "Victim's gallery",
+    "seeGallery": "See gallery",
+    "emptyGallery": "The victim's gallery is currently empty"
+  },
+  "aboutUsScreen": {
+    "aboutUs": "About us",
+    "establishment": "By the decision of the High Representative for Bosnia and Herzegovina in 2000, the Memorial Center for the Victims of the 1995 Genocide was established in Srebrenica-Potocari. The memorial center is a place of remembrance for the victims of the genocide in Srebrenica in 1995 and is dedicated to preserving history and dealing with the forces of ignorance and hatred that provoke genocide.",
+    "goals": "The mandate and goals of the Memorial Center are the building and maintenance of the Memorial Center, the receipt and disbursement of funds for the Memorial Center, cooperation with similar centers, foundations and associations around the world; and performing other activities of importance to the Memorial Center.",
+    "partnerships": "On the way to fulfilling our mission and mandate, we are constantly cooperating with partner organizations in the country, the region and the world. We pay special attention to constant research, especially in the segments of collecting personal belongings of victims of genocide, oral history and personal testimonies, analysis of relevant verdicts and prosecution of responsibility for genocide and crimes against humanity. Also, the Memorial Center works to combat genocide denial, publishes publications, videos and continuously develops graphics, displays and reviews through which websites, social networks and partner media inform the public and raise awareness about genocide.",
+    "art": "We collaborate with artists and develop new exhibitions inside and outside the Memorial Center. We open up to the community and use art in a variety of ways to convey messages and information. We participate in the organization of the Day of Remembrance of the Victims of Genocide - July 11 and we support all activities related to this date. We help and encourage journalists and researchers to visit Srebrenica, use our Documentation Center, Archives, Library, and all available data to realize new stories and scientific papers that will contribute to the prevention of genocide in the world.",
+    "peace": "Denial of genocide and Islamophobia remain serious obstacles to peace and reconciliation in Bosnia and Herzegovina. At the Memorial Center, we understand the danger that historical revisionism poses to the peace-building process and transitional justice. Through a fact-based approach that promotes tolerance, interethnic dialogue, and reconciliation, we are committed to confronting the destructive forces that seek to negate the Bosnian historical experience.",
+    "aboutCompany": "The main activity of PUK Gradska groblja Visoko is the provision of funeral services and the maintenance of public green areas, and, accordingly, it has organized and divided its work into services, i.e. work units of special social interest and work units that operate on commercial principles. In accordance with the constant trend of development and expansion of the business he is engaged in, work at PUK Gradska groblja d.o. o. Viko is carried out in five work units, namely:",
+    "aboutCompanySection2": "PUK Gradska groblja d.o.o. Today, Visoko is a modern company that relies on elements of tradition, while using modern achievements. Quality, reliability and high business level are a guarantee that we will always be able to respond to your needs and requests in the best way.",
+    "transactionMaintext": "TRANSACTION ACCOUNTS:",
+    "transactionAccount1": "1340011110006481 ASA BANKA d.d.",
+    "transactionAccount2": "1994740104018706 SPARKASSE BANK d.d.",
+    "transactionAccount3": "1542602008019005 INTESA SANPAOLO BANKA d.d.",
+    "emailMaintext": "Email:",
+    "email1": "jkpgg@bih.net.ba",
+    "email2": "pogrebnegg@bih.net.ba",
+    "adressMaintext": "Adresa:",
+    "adress": "Mule Hodžića 108, Visoko 71300",
+    "country": "Bosna i Hercegovina",
+    "telephoneMainText": "Telephone:",
+    "telephoneNumber": "032 735-001",
+    "webLink": "https://www.gradskagroblja.ba",
+    "contactCementery": "In the event of a death, immediately contact the funeral service by phone, which will give you detailed instructions for your further action. For this purpose, our phone is at your disposal 24 hours a day:"
+  },
+  "noInternetConnection": "No internet connection"
+}

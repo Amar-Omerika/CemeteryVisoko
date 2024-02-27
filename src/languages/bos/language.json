@@ -1,0 +1,77 @@
+{
+  "appLanguage": {
+    "bosnian": "Bosanski",
+    "english": "Engleski"
+  },
+  "homeScreen": {
+    "ajetElBekare": "I ne recite za one koji su na Allahovu putu poginuli: \"Mrtvi su!\" Ne, oni su živi, ali vi to ne znate.",
+    "memorialCentarSrebrenica": "Gradsko Groblje Visoko",
+    "mission": "- Naša misija je čuvanje istine o genocidu.",
+    "continue": "Nastavi",
+    "welcome": "Dobrodošli u aplikaciju Gradska Groblja Visoko",
+    "introduction": "Uz minimalan broj informacija pronađite grobna mjesta Vaših najbližih. Ukoliko ne znate nijedan od traženih podataka obratite se upravi Gradskih Grobalja Visoko.",
+    "web": "Web",
+    "smrtovnice": "Smrtovnice",
+    "moreInformation": "Za više informacija posjetite našu web stranicu!"
+  },
+  "searchScreen": {
+    "enterSearchParams": "Unesite podatke za pretragu",
+    "enteringMoreParams": "Ispunjavanjem većeg broja polja, imate bolju šansu da pronađete tačno mjesto ukopa tražene osobe.  Ukoliko ne znate nijedan od traženih podataka obratite se upravi Gradskih Grobalja Visoko.",
+    "nameOptional": "Ime - opcionalno",
+    "surnameOptional": "Prezime - opcionalno",
+    "fathersNameOptional": "Ime oca - opcionalno",
+    "seeAll": "Vidi sve",
+    "search": "Pretraži",
+    "tabBar": {
+      "search": "Pretraga",
+      "map": "Mapa"
+    }
+  },
+  "searchResultsScreen": {
+    "allResults": "Svi rezultati",
+    "possibleMatches1": "moguće poklapanje",
+    "possibleMatches2": "moguća poklapanja",
+    "possibleMatches": "mogućih poklapanja",
+    "resultsFor": "Pretraga za",
+    "open": "Otvori",
+    "close": "Zatvori",
+    "unknownLocation": "Lokacija trenutno nepoznata"
+  },
+  "mapScreen": {
+    "placeOfBirth": "Mjesto rođenja",
+    "dateOfBurial": "Datum ukopa",
+    "plot": "Parcela",
+    "row": "Red",
+    "graveSite": "Grobno mjesto",
+    "reCenter": "Centriraj",
+    "yearOfBirth": "Godina rođenja:",
+    "gallery": "Galerija žrtve",
+    "seeGallery": "Pogledaj galeriju",
+    "emptyGallery": "Galerija žrtve je trenutno prazna"
+  },
+  "aboutUsScreen": {
+    "aboutUs": "O nama",
+    "establishment": "Odlukom Visokog predstavnika za Bosnu i Hercegovinu 2000. godine osnovan je Memorijalni centar Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. godine. Memorijalni centar je mjesto sjećanja na žrtve genocida u Srebrenici iz 1995. godine i posvećen je očuvanju historije i suočavanju sa silama neznanja i mržnje koje uzrokuju genocid.",
+    "goals": "Mandat i ciljevi Memorijalnog centra su izgradnja i održavanje Memorijalnog centra, prijem i isplata sredstava za Memorijalni centar, saradnja sa sličnim centrima, fondacijama i udruženjima širom svijeta; i obavljanje ostalih aktivnosti od značaja za Memorijalni centar.",
+    "partnerships": "Na putu ispunjenja naše misije i mandata, stalno sarađujemo sa partnerskim organizacijama u zemlji, regiji i svijetu. Posebnu pažnju pridajemo stalnoj istraživačkoj djelatnosti, a posebno u segmentima prikupljanja ličnih predmeta žrtava genocida, oralne historije i ličnih svjedočenja, analizama relevantnih presuda i krivičnog gonjenja odgovornosti za genocid i zločine protiv čovječnosti. Također, Memorijalni centar radi na borbi protiv negiranja genocida, izdaje publikacije, video-sadržaje i kontinuirano razvija grafike, prikaze i preglede kojim putem web-stranice, društvenih mreža i partnerskih medija informiše javnost i podiže svijest o genocidu.",
+    "art": "Sarađujemo sa umjetnicima i umjetnicama, te razvijamo nove izložbe u Memorijalnom centru, ali i izvan njega. Otvaramo se prema zajednici i na različite načine koristimo umjetnost u prenošenju poruke i informacija. Učestvujemo u organizaciji Dana sjećanja na žrtve genocida – 11. jula, te podržavamo sve aktivnosti vezano za ovaj datum. Pomažemo i ohrabrujemo novinare i istraživače da posjećuju Srebrenicu, koriste naš Dokumentacioni centar, Arhiv, Biblioteku i sve dostupne podatke za realizaciju novih priča i naučnih radova koji će doprinijeti prevenciji genocida u svijetu.",
+    "peace": "Negiranje genocida i islamofobija ostaju ozbiljne prepreke miru i pomirenju u Bosni i Hercegovini. U Memorijalnom centru razumijemo opasnost koju historijski revizionizam predstavlja za procese izgradnje mira i tranzicijske pravde. Kroz pristup zasnovan na činjenicama koji promovira toleranciju, međuetnički dijalog i pomirenje posvećeni smo suočavanju sa pogubnim silama koje nastoje negirati bosansko historijsko iskustvo.",
+    "aboutCompany": "Osnovna djelatnost JKP Gradska groblja Visoko je pružanje pogrebnih usluga i održavanje javnih zelenih površina, te je, u skladu s tim, svoj rad organizovalo i podijelilo na službe, tj. radne jedinice od posebnog društvenog interesa i radne jedinice koje svoje poslovanje obavljaju na komercijalnim principima. U skladu sa stalnim trendom razvoja i proširenja poslova kojima se bavi, rad u JKP Gradska groblja d.o o. Visoko se obavlja u pet radnih jedinica, i to:",
+    "aboutCompanySection2": "JKP Gradska groblja d.o.o. Visoko je danas moderno preduzeće koje se oslanja na elemente tradicije, uz korištenje savremenih dostignuća. Kvalitet, pouzdanost i visok poslovni nivo garancija su da ćemo Vašim potrebama i zahtjevima uvijek moći odgovoriti na najbolji način.",
+    "transactionMaintext": "TRANSAKCIJSKI RAČUNI:",
+    "transactionAccount1": "1340011110006481 ASA BANKA d.d.",
+    "transactionAccount2": "1994740104018706 SPARKASSE BANK d.d.",
+    "transactionAccount3": "1542602008019005 INTESA SANPAOLO BANKA d.d.",
+    "emailMaintext": "Email:",
+    "email1": "jkpgg@bih.net.ba",
+    "email2": "pogrebnegg@bih.net.ba",
+    "adressMaintext": "Adresa:",
+    "adress": "Mule Hodžića 108, Visoko 71300",
+    "country": "Bosna i Hercegovina",
+    "telephoneMainText": "Telefon:",
+    "telephoneNumber": "032 735-001",
+    "webLink": "https://www.gradskagroblja.ba",
+    "contactCementery": "Kod nastupanja smrtnog slučaja odmah telefonski kontaktirajte pogrebnu službu, koja će Vam dati detaljna uputstva za Vaše dalje postupanje. U tu svrhu su Vam, 24 sata dnevno, na raspolaganju naš telefon:"
+  },
+  "noInternetConnection": "Nema internet konekcije"
+}
